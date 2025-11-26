@@ -1,3 +1,64 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-wearable-in-use",
+      "description": "A person wearing the SignAI wearable device in a professional institutional setting, like a hospital reception or university office.",
+      "imageUrl": "https://images.unsplash.com/photo-1486649961855-75838619c131?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3ZWFyYWJsZSUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzY0MDY5MDAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wearable technology"
+    },
+    {
+      "id": "how-it-works-diagram",
+      "description": "A clear diagram showing the 3-step process of SignAI: 1. Sign Capture, 2. AI Processing, 3. Text/Voice Output.",
+      "imageUrl": "https://images.unsplash.com/photo-1620365744528-88da1e08ac96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmbG93JTIwZGlhZ3JhbXxlbnwwfHx8fDE3NjQxNzQwMzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "flow diagram"
+    },
+    {
+      "id": "hardware-wearable",
+      "description": "A detailed close-up shot of the SignAI wearable, highlighting its ergonomic design and sensors.",
+      "imageUrl": "https://images.unsplash.com/photo-1720338163463-7b760d7604eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cHJvZHVjdCUyMGNsb3NldXB8ZW58MHx8fHwxNzY0MTU5MjQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "product closeup"
+    },
+    {
+      "id": "software-dashboard",
+      "description": "The SignAI application dashboard shown on a tablet or smartphone, displaying a conversation transcript.",
+      "imageUrl": "https://images.unsplash.com/photo-1654764450278-17bb78c00eb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhcHAlMjBpbnRlcmZhY2V8ZW58MHx8fHwxNzY0MDkxMTM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "app interface"
+    },
+    {
+      "id": "use-case-hospital",
+      "description": "A scene in a hospital where a healthcare worker is communicating with a deaf patient using SignAI.",
+      "imageUrl": "https://images.unsplash.com/photo-1758691462848-31a39258dbd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxob3NwaXRhbCUyMGNvbW11bmljYXRpb258ZW58MHx8fHwxNzY0MTc0MDMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hospital communication"
+    },
+    {
+      "id": "use-case-university",
+      "description": "A university classroom where a deaf student is using SignAI to interact with the professor.",
+      "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzdHVkZW50JTIwbGVhcm5pbmd8ZW58MHx8fHwxNzY0MTM2NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student learning"
+    },
+    {
+      "id": "use-case-municipality",
+      "description": "A person at a government service window in a municipality office, using SignAI to communicate with staff.",
+      "imageUrl": "https://images.unsplash.com/photo-1613963931023-5dc59437c8a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjdXN0b21lciUyMHNlcnZpY2V8ZW58MHx8fHwxNzY0MTU1MjczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "customer service"
+    },
+    {
+      "id": "blog-post-1",
+      "description": "Image for a blog post about implementing a pilot program. Shows a team collaborating around a desk.",
+      "imageUrl": "https://images.unsplash.com/photo-1709715357510-b687304cee3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx0ZWFtJTIwbWVldGluZ3xlbnwwfHx8fDE3NjQwOTc2Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "team meeting"
+    },
+    {
+      "id": "blog-post-2",
+      "description": "Image for a blog post about privacy and on-device AI. Abstract representation of data security.",
+      "imageUrl": "https://images.unsplash.com/photo-1548092372-0d1bd40894a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkYXRhJTIwc2VjdXJpdHl8ZW58MHx8fHwxNzY0MTA3NTY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data security"
+    },
+    {
+      "id": "blog-post-3",
+      "description": "Image for a blog post about measuring impact. A dashboard with charts and graphs showing positive trends.",
+      "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkYXRhJTIwYW5hbHl0aWNzfGVufDB8fHx8MTc2NDExNDk3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data analytics"
+    }
+  ]
 }
