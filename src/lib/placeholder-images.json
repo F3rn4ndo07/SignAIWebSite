@@ -3,25 +3,25 @@
     {
       "id": "hero-wearable-in-use",
       "description": "A person wearing the SignAI wearable device in a professional institutional setting, like a hospital reception or university office.",
-      "imageUrl": "https://images.unsplash.com/photo-1486649961855-75838619c131?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3ZWFyYWJsZSUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzY0MDY5MDAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://i.ibb.co/Swt94yV6/Imagen1-Inicio.png",
       "imageHint": "wearable technology"
     },
     {
       "id": "how-it-works-diagram",
       "description": "A clear diagram showing the 3-step process of SignAI: 1. Sign Capture, 2. AI Processing, 3. Text/Voice Output.",
-      "imageUrl": "https://images.unsplash.com/photo-1620365744528-88da1e08ac96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmbG93JTIwZGlhZ3JhbXxlbnwwfHx8fDE3NjQxNzQwMzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://i.ibb.co/4gm9Rjq6/Imagen3-Como-Funciona.png",
       "imageHint": "flow diagram"
     },
     {
       "id": "hardware-wearable",
       "description": "A detailed close-up shot of the SignAI wearable, highlighting its ergonomic design and sensors.",
-      "imageUrl": "https://images.unsplash.com/photo-1720338163463-7b760d7604eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cHJvZHVjdCUyMGNsb3NldXB8ZW58MHx8fHwxNzY0MTU5MjQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://i.ibb.co/QvYvkKgF/Imagen1-Como-Funciona.png",
       "imageHint": "product closeup"
     },
     {
       "id": "software-dashboard",
       "description": "The SignAI application dashboard shown on a tablet or smartphone, displaying a conversation transcript.",
-      "imageUrl": "https://images.unsplash.com/photo-1654764450278-17bb78c00eb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhcHAlMjBpbnRlcmZhY2V8ZW58MHx8fHwxNzY0MDkxMTM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://i.ibb.co/jPSjzsYQ/Imagen2-Como-Funciona.png",
       "imageHint": "app interface"
     },
     {
@@ -39,7 +39,7 @@
     {
       "id": "use-case-municipality",
       "description": "A person at a government service window in a municipality office, using SignAI to communicate with staff.",
-      "imageUrl": "https://images.unsplash.com/photo-1613963931023-5dc59437c8a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjdXN0b21lciUyMHNlcnZpY2V8ZW58MHx8fHwxNzY0MTU1MjczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1613963931023-5dc59437c8a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHjdXN0b21lciUyMHNlcnZpY2V8ZW58MHx8fHwxNzY0MTU1MjczfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "customer service"
     },
     {
