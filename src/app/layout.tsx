@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   },
   description: 'SignAI es un wearable que traduce la Lengua de Señas a voz/texto en tiempo real, facilitando la comunicación inclusiva en hospitales, universidades y entidades públicas en Perú.',
   keywords: ['Lengua de Señas', 'Inteligencia Artificial', 'Accesibilidad', 'Inclusión', 'Perú', 'Wearable'],
+  verification: {
+    google: 'Yn1piL6OlVcaMcQQRdOLt4W_S1n9a7rf5hERh1-pOxM',
+  },
 };
 
 export default function RootLayout({
