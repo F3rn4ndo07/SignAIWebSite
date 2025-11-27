@@ -15,6 +15,9 @@ export const metadata: Metadata = {
   verification: {
     google: 'Yn1piL6OlVcaMcQQRdOLt4W_S1n9a7rf5hERh1-pOxM',
   },
+  icons: {
+    icon: 'https://i.ibb.co/rhYbY21/Sing-AIBrowser-Logo.png',
+  },
 };
 
 export default function RootLayout({
