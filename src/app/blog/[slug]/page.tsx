@@ -7,15 +7,20 @@ import type { Metadata, ResolvingMetadata } from 'next';
 import { blogPosts } from '@/lib/blog-data';
 import { Button } from '@/components/ui/button';
 
-type Props = {
-  params: { slug: string };
+type BlogPageParams = {
+  slug: string;
+};
+
+type BlogPageProps = {
+  params: Promise<BlogPageParams>;
 };
 
 export async function generateMetadata(
-  { params }: Props,
+  { params }: BlogPageProps,
   parent: ResolvingMetadata
 ): Promise<Metadata> {
-  const post = blogPosts.find((p) => p.slug === params.slug);
+  const { slug } = await params;
+  const post = blogPosts.find((p) => p.slug === slug);
 
   if (!post) {
     return {
@@ -29,8 +34,9 @@ export async function generateMetadata(
   };
 }
 
-export default function BlogPostPage({ params }: { params: { slug: string } }) {
-  const post = blogPosts.find((p) => p.slug === params.slug);
+export default async function BlogPostPage({ params }: BlogPageProps) {
+  const { slug } = await params;
+  const post = blogPosts.find((p) => p.slug === slug);
 
   if (!post) {
     notFound();
