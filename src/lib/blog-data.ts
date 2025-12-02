@@ -21,7 +21,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: 'piloto-en-30-dias',
     title: 'Piloto en 30 días: cómo implementar traducción de señas en tu institución',
-    date: '10 de Noviembre, 2024',
+    date: '10 de Noviembre, 2023',
     excerpt: 'Descubre el proceso paso a paso para lanzar un piloto de SignAI en tu organización. Desde la planificación hasta la medición de resultados, te guiamos para que la implementación sea un éxito.',
     image: blogImage1 ? { src: blogImage1.imageUrl, alt: blogImage1.description, hint: blogImage1.imageHint } : null,
     content: `
@@ -40,7 +40,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: 'privacidad-y-confianza',
     title: 'Privacidad y confianza en soluciones de accesibilidad con IA y ML on-device',
-    date: '22 de Octubre, 2024',
+    date: '22 de Octubre, 2023',
     excerpt: 'La privacidad no es negociable. Explicamos por qué el procesamiento on-device de SignAI es la arquitectura más segura para manejar comunicaciones sensibles y cómo esto genera confianza en tus usuarios.',
     image: blogImage2 ? { src: blogImage2.imageUrl, alt: blogImage2.description, hint: blogImage2.imageHint } : null,
     content: `
@@ -61,7 +61,7 @@ export const blogPosts: BlogPost[] = [
   {
     slug: 'medir-impacto-inclusion',
     title: 'Cómo medir el impacto de la inclusión en ventanillas, aulas y triaje',
-    date: '18 de Septiembre, 2024',
+    date: '18 de Septiembre, 2023',
     excerpt: 'La inclusión no es solo un ideal, es un resultado medible. Te mostramos los indicadores clave (KPIs) para cuantificar el impacto de SignAI en la eficiencia operativa y la satisfacción del usuario.',
     image: blogImage3 ? { src: blogImage3.imageUrl, alt: blogImage3.description, hint: blogImage3.imageHint } : null,
     content: `
